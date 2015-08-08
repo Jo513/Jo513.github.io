@@ -41,19 +41,19 @@ input[TYPE="submit"] {
 </p>
 
 
-<FORM METHOD="LINK" ACTION="file:///C:/Users/Josie/Desktop/Incorrect.html">
+<FORM METHOD="LINK" ACTION="Incorrect.html">
 <INPUT TYPE="submit" VALUE="July 4th, 1826">
 </FORM>
 
 <p> </p>
 
-<FORM METHOD="LINK" ACTION="file:///C:/Users/Josie/Desktop/Incorrect.html">
+<FORM METHOD="LINK" ACTION="Incorrect.html">
 <INPUT TYPE="submit" VALUE="July 14th, 1789">
 </FORM>
 
 <p> </p>
 
-<FORM METHOD="LINK" ACTION="file:///C:/Users/Josie/Desktop/correct.html">
+<FORM METHOD="LINK" ACTION="correct.html">
 <INPUT TYPE="submit" VALUE="July 4th, 1776">
 </FORM>
 

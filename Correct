@@ -37,7 +37,7 @@ input[VALUE="submit"] {
 </head>
 <body>
 
-<FORM METHOD="LINK" ACTION="file:///C:/Users/Josie/Desktop/Facts.html">
+<FORM METHOD="LINK" ACTION="Facts.html">
 <INPUT TYPE="submit" VALUE="Correct!">
 </FORM>
 

@@ -41,7 +41,7 @@ input[VALUE="Next"] {
 </p>
 
 
-<FORM METHOD="LINK" ACTION="file:///C:/Users/Josie/Desktop/U.S.%20History%20Q.html">
+<FORM METHOD="LINK" ACTION="U.S.%20History%20Q.html">
 <INPUT TYPE="submit" VALUE="Next">
 </FORM>
 
