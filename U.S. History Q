@@ -1,0 +1,54 @@
+<!DOCTYPE html> 
+<html lang="en">
+
+
+<head>
+<style>
+body {
+ text-align: center;
+ background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Declaration_independence.jpg/600px-Declaration_independence.jpg");
+ background-size: cover;
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ color: white;
+ font-family: Helvetica;
+}
+ p{
+     font-size: 22px;
+}
+h{
+     font-size: 30px;
+}
+
+input {
+    border: 0;
+    padding: 12px;
+    font-size: 18px;
+}
+
+input[VALUE="Next"] {
+    background: red;
+    color: black;
+}
+
+
+</style>
+</head>
+<body>
+<h> Declaration of Independence </h1>
+<p> America declared its independence from Britian on July 4th, 1776. This is a painting of the ratification of the Declaration of Independence on July 5th, 1776.
+</p>
+
+
+<FORM METHOD="LINK" ACTION="file:///C:/Users/Josie/Desktop/US%20History.html">
+<INPUT TYPE="submit" VALUE="Next">
+</FORM>
+
+<!--
+    <a href= ""> It's me! </a> 
+ -->
+</body>
+
+
+</html>
