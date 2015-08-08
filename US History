@@ -1,0 +1,54 @@
+<!DOCTYPE html> 
+<html lang="en">
+
+
+<head>
+<style>
+body {
+ text-align: center;
+ background: url("http://img.hdwallpaperpc.com/cover/107/Nature_Cemetery_BW_Tombstones_Graveyard_Trees_106648_detail_thumb.jpg");
+ background-size: cover;
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ color: black;
+ font-family: Helvetica;
+}
+ p{
+     font-size: 22px;
+}
+h{
+     font-size: 30px;
+}
+
+input {
+    border: 0;
+    padding: 12px;
+    font-size: 18px;
+}
+
+input[VALUE="Next"] {
+    background: red;
+    color: black;
+}
+
+
+</style>
+</head>
+<body>
+<h> July 4th, 1826 </h1>
+<p> Two American Presidets, John Adams and Thomas Jefferson, died on July 4th, 1826, exactly 50 years after America declared it's independence. 
+</p>
+
+
+<FORM METHOD="LINK" ACTION="file:///C:/Users/Josie/Desktop/Quiz.html">
+<INPUT TYPE="submit" VALUE="Next">
+</FORM>
+
+<!--
+    <a href= ""> It's me! </a> 
+ -->
+</body>
+
+
+</html>
