@@ -1,0 +1,54 @@
+<!DOCTYPE html> 
+<html lang="en">
+
+
+<head>
+<style>
+body {
+ text-align: center;
+ background: url("http://a3.files.biography.com/image/upload/c_fill,cs_srgb,dpr_1.0,g_face,h_300,q_80,w_300/MTE5NDg0MDU1MDA4MTUxMDU1.jpg");
+ background-size: cover;
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ color: black;
+ font-family: Helvetica;
+}
+ p{
+     font-size: 22px;
+}
+h{
+     font-size: 30px;
+}
+
+input {
+    border: 0;
+    padding: 12px;
+    font-size: 18px;
+}
+
+input[VALUE="Next"] {
+    background: red;
+    color: black;
+}
+
+
+</style>
+</head>
+<body>
+<h> Andrew Jackson </h1>
+<p> Andrew Jackson was the seventh president of the United States. Even though he detested the National Bank, his face appears on the 20 dollar bill.
+</p>
+
+
+<FORM METHOD="LINK" ACTION="file:///C:/Users/Josie/Desktop/U.S.%20History%20Q.html">
+<INPUT TYPE="submit" VALUE="Next">
+</FORM>
+
+<!--
+    <a href= ""> It's me! </a> 
+ -->
+</body>
+
+
+</html>
